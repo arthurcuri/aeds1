@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698783631 source:c:\users\pichau\desktop\exercícios arquivos, acesso sequencial - aeds\05 - exercícios de arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

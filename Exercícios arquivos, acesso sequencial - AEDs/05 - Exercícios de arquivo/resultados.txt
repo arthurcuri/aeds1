@@ -1,0 +1,7 @@
+O valor 20 esta no arquivo na posicao 6.
+O valor 23 esta no arquivo na posicao 7.
+O valor 2023 nao esta no arquivo, valores mais proximos: 2021 e 2024.
+O valor 56 esta no arquivo na posicao 18.
+O valor 45 nao esta no arquivo, valores mais proximos: 44 e 47.
+O valor -2033891064 nao esta no arquivo, valor mais proximo: 5.
+O valor 23 esta no arquivo na posicao 7.
